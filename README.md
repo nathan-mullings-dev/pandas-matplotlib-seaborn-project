@@ -11,7 +11,7 @@ This repository showcases a hands-on workbook that provides practical experience
 ## Proposal 💡
 
 The goal of this workbook was to equip myself with the necessary tools to handle real-world datasets using Python in a cloud-based environment like **Google Colab**. Throughout this project, I have:
-- **Mastered data manipulation techniques** with Pandas, including cleaning and transforming datasets. 🧹
+- **Learned how to work with data** using Pandas, including cleaning and transforming datasets. 🧹
 - **Developed skills in data visualization** using Matplotlib and Seaborn to create clear, insightful charts and graphs. 📉
 - **Analyzed economic data** by working with GDP per capita data across countries, helping to understand economic disparities and trends on a global scale. 🌍
 
