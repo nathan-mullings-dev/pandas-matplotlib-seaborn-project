@@ -4,7 +4,7 @@
 
 ## Overview 🌍
 
-This repository showcases a hands-on workbook that provides practical experience with data analysis and visualization using **Pandas**, **Matplotlib**, and **Seaborn** in **Google Colab**. The workbook is centered around working with GDP per capita data for various countries, allowing me to manipulate, analyze, and visualize economic data using Python.
+This repository showcases a hands-on workbook that provides practical experience with data analysis and visualization using Python libraries - **Pandas**, **Matplotlib**, and **Seaborn** in **Google Colab**. The workbook is centered around working with GDP per capita data for various countries, allowing me to manipulate, analyze, and visualize economic data using Python.
 
 ---
 
