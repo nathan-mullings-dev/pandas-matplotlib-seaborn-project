@@ -8,7 +8,7 @@ This repository contains a series of Jupyter notebooks that document the tasks I
 
 ---
 
-## Tasks Completed ✅
+## Tasks Completed / Learning Outcomes ✅
 
 ### **Pandas for Data Manipulation** 🐼
 - **Creating DataFrames**: I learned how to create and structure data using Pandas DataFrames from various sources like dictionaries and lists.
@@ -19,37 +19,16 @@ This repository contains a series of Jupyter notebooks that document the tasks I
 ### **Matplotlib for Data Visualization** 📊
 - I used **Matplotlib** to create basic visualizations, such as **line plots**, **bar charts**, **scatter plots**, and **histograms**, to analyze and interpret data.
 - I customized the visualizations by adjusting axis labels, titles, and adding annotations to highlight key points.
+- Used visualizations to identify patterns and trends in data.
 
 ### **Seaborn for Advanced Visualizations** 🌈
 - I created more advanced visualizations with **Seaborn**, including **box plots**, **pair plots**, and **heatmaps**, to uncover patterns and relationships between variables.
 - Seaborn’s integration with Pandas helped me work efficiently with datasets and generate polished visualizations with minimal code.
+- Streamlined the visualization process with Seaborn’s simpler syntax and attractive default styling.
 
 ### **Data Exploration & Analysis** 🔍
 - I explored real-world datasets to understand trends and relationships by applying descriptive statistics and visual analysis techniques.
 - I identified outliers and patterns, enabling more meaningful insights from the data.
-
----
-
-## Learning Outcomes 🎯
-
-By completing these notebooks, I have gained the following skills and knowledge:
-
-### **Pandas for Data Manipulation** 🧹
-- Created and cleaned datasets, handled missing values, and transformed data types.
-- Applied grouping and aggregation techniques to summarize large datasets.
-- Merged and joined multiple datasets for more comprehensive analysis.
-
-### **Data Visualization with Matplotlib** 🎨
-- Created various visualizations such as line plots, bar charts, scatter plots, and histograms.
-- Customized visualizations with titles, labels, and annotations for clarity.
-- Used visualizations to identify patterns and trends in data.
-
-### **Data Visualization with Seaborn** 🌟
-- Created more complex visualizations like heatmaps, pair plots, and violin plots.
-- Streamlined the visualization process with Seaborn’s simpler syntax and attractive default styling.
-
-### **Data Exploration & Statistical Analysis** 📈
-- Explored datasets using visualizations and statistical methods to uncover trends and patterns.
 - Applied basic descriptive statistics and identified outliers in data.
 
 ### **Working in Google Colab** ☁️
