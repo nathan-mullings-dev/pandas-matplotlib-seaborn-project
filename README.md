@@ -13,7 +13,7 @@ This repository contains a series of Jupyter notebooks that document the tasks I
 ### **Pandas for Data Manipulation** 🐼
 I built a solid foundation in **Pandas**, using it to explore, clean, and transform datasets:
 
-- **Creating DataFrames**: I learned how to create and structure data using Pandas DataFrames from various sources like dictionaries and lists.
+- **Creating DataFrames** from dictionaries, lists, and external files (e.g., XSLX, CSVs) to structure data effectively.
 - **Data Cleaning**: I applied techniques for handling missing values and transforming data to ensure it's clean and ready for analysis.
 - **Aggregation & Grouping** with `.groupby()` and `.pivot_table()` to summarize data using functions like `sum()`, `mean()`, and `count()`.
 - **Merging & Joining** multiple DataFrames with `.merge()` and `.concat()` to combine datasets and enrich analyses.
